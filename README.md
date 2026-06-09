@@ -916,4 +916,6 @@ if (res.error != null) {
 }
 ```
 
-If you want help wiring specific providers (for restaurants, reports) to Supabase, tell me which provider to convert next.
+**Author**
+sathish jalli
+
